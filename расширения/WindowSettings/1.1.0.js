@@ -517,6 +517,7 @@
               },
             },
           },
+          //WAYLIVES
           {
             opcode: "optionShown",
             blockType: Scratch.BlockType.BOOLEAN,
