@@ -1,1 +1,1 @@
-![image](https://github.com/WAYLIVES/VIVU/assets/130656326/61671a99-f0ab-4a85-9f63-7e275ad2bf89)
+![image](https://github.com/WAYLIVES/VIVU/assets/130656326/b7b7d852-55b0-4713-b08a-4b27ddfc4392)
